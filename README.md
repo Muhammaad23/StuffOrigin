@@ -1,1 +1,2 @@
-<h1>Hello world!</h1>
+<img src='https://cdn.smct.io/94118-439.jpg
+' alt='' />
